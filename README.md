@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wito00
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning the basics of python.
+- 🌱 Currently python.
 
 
 <!---
