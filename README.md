@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wito00
 - 👀 I’m interested in programming.
-- 🌱 Currently python.
+- 🌱 Currently Java, Angular and Python.
 
 
 <!---
